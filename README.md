@@ -20,13 +20,14 @@ End the program
 
 
 ## PROGRAM:
-#Program to swap two values.
+~~~
 n1=int(input())
 n2=int(input())
 temp=n1
 n1=n2
 n2=temp
 print("Swapped values are: {} {}".format(n1,n2))
+~~~
 
 
 
