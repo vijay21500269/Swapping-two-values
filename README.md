@@ -29,6 +29,8 @@ n2=temp
 print("Swapped values are: {} {}".format(n1,n2))
 ~~~
 
+## OUTPUT:
+[!output](https://github.com/vijay21500269/Swapping-two-values/blob/main/Screenshot%20(33).png?raw=true)
 
 
 
